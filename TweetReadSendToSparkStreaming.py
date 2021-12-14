@@ -10,11 +10,11 @@ WORDS = ['#bitcoin', '#cryptocurrency', '#crypto', '#litecoin', '#satoshi']
 '''
 Twitter Developer Account Credentials
 '''
-access_token = '1451764303-7Rlqo8WuxT6xaXyiy6l3IK3W6nlRACQr7SA3Yo5'
-access_secret = 'PbAXMCErQRTRD0ZY3QWHKxme3uMdxmcR4qcTKgvGwNf0N'
-consumer_key = '9rmQqOmCEJkNOEjSadQwbVsWx'
-consumer_secret = 'p7YrR3Wihr2oXRwd9ZJHYVCeeFlaLADS0CrmRczDarsvCXIzS3'
 
+access_token = '1462806967718752257-GmjdDucY6D6zGEgLFtKVbGHD24mEnc'
+access_secret = 'mROEJzVIIz5gNpUbsB8YRvaTla08Hp7ZsBY0k30PRsgYq'
+consumer_key = 'a7ljAwqeDvSLp7p2Bp1sJQJ65'
+consumer_secret = 'BNJgoMcrqla3fNlT8ZKBGN1KySjgXQ5PVhq5s1jGLXMQGZh27X'
 
 class TweetStreamListener(StreamListener):
 
